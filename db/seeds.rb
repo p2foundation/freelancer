@@ -16,7 +16,7 @@ end
 
 # Create dummy users
 5.times do
-    user = User.create(
+    user User.cre =ate(
         full_name: Faker::Name.name,
         email: Faker::Internet.free_email,
         about: Faker::Quote.matz,
