@@ -32,7 +32,6 @@ gem 'bulma-rails', '~> 0.9.1'
 gem 'bulma-extensions-rails', '~> 1.0.30'
 gem 'devise', '~> 4.7'
 
-gem 'wdm', '>= 0.1.0'
 # Add Gem.win_platform to avoid polling for changes
 
 gem 'omniauth', '= 1.9.0'
